@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>fpt.backend</groupId>
-	<artifactId>MasterAuth</artifactId>
+	<artifactId>backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MasterAuth</name>
 	<description>Practice to authentication in spring boot</description>
